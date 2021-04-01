@@ -1,2 +1,2 @@
 # gentoo
-gentoo-kernel-config
+gentoo
